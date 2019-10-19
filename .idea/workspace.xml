@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c1e2f0a-9353-4f31-a0f9-1c3b2410e523" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/KlasaTestowa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestWSelenium.java" afterDir="false" />
+    <list default="true" id="4c1e2f0a-9353-4f31-a0f9-1c3b2410e523" name="Default Changelist" comment="Pierwsyz test + otwarceie przegladarki">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestWSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestWSelenium.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,12 +49,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestWSelenium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="190">
+              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="46" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#791#792#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestWSelenium.OtwarciePrzegladarki">
+  <component name="RunManager" selected="TestNG.TestWSelenium.wyszukajLublin">
     <configuration name="KlasaTestowa" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="_555" />
       <option name="PACKAGE_NAME" value="" />
@@ -195,8 +188,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestWSelenium.wyszukajLublin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="_555" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestWSelenium" />
+      <option name="METHOD_NAME" value="wyszukajLublin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestWSelenium.wyszukajLublin" />
         <item itemvalue="TestNG.TestWSelenium.OtwarciePrzegladarki" />
         <item itemvalue="TestNG.TestWSelenium" />
         <item itemvalue="TestNG.KlasaTestowa" />
@@ -221,44 +227,50 @@
       <option name="project" value="LOCAL" />
       <updated>1571488050474</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pierwsyz test + otwarceie przegladarki">
+      <created>1571493166762</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571493166762</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KlasaTestowa - 2019.10.19 at 14h 44m 57s.xml">
-      <configuration name="KlasaTestowa" configurationId="TestNG" />
+    <history-entry file="TestWSelenium_OtwarciePrzegladarki - 2019.10.19 at 16h 43m 04s.xml">
+      <configuration name="TestWSelenium.OtwarciePrzegladarki" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="KlasaTestowa - 2019.10.19 at 14h 55m 54s.xml">
-      <configuration name="KlasaTestowa" configurationId="TestNG" />
+    <history-entry file="TestWSelenium_OtwarciePrzegladarki - 2019.10.19 at 16h 46m 38s.xml">
+      <configuration name="TestWSelenium.OtwarciePrzegladarki" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="KlasaTestowa - 2019.10.19 at 14h 56m 16s.xml">
-      <configuration name="KlasaTestowa" configurationId="TestNG" />
+    <history-entry file="TestWSelenium_OtwarciePrzegladarki - 2019.10.19 at 16h 47m 49s.xml">
+      <configuration name="TestWSelenium.OtwarciePrzegladarki" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="KlasaTestowa - 2019.10.19 at 14h 56m 30s.xml">
-      <configuration name="KlasaTestowa" configurationId="TestNG" />
+    <history-entry file="TestWSelenium_OtwarciePrzegladarki - 2019.10.19 at 16h 50m 42s.xml">
+      <configuration name="TestWSelenium.OtwarciePrzegladarki" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="KlasaTestowa - 2019.10.19 at 15h 07m 12s.xml">
-      <configuration name="KlasaTestowa" configurationId="TestNG" />
+    <history-entry file="TestWSelenium_OtwarciePrzegladarki - 2019.10.19 at 16h 51m 43s.xml">
+      <configuration name="TestWSelenium.OtwarciePrzegladarki" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="KlasaTestowa - 2019.10.19 at 15h 07m 46s.xml">
-      <configuration name="KlasaTestowa" configurationId="TestNG" />
+    <history-entry file="TestWSelenium_OtwarciePrzegladarki - 2019.10.19 at 16h 52m 43s.xml">
+      <configuration name="TestWSelenium.OtwarciePrzegladarki" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="KlasaTestowa - 2019.10.19 at 15h 08m 26s.xml">
-      <configuration name="KlasaTestowa" configurationId="TestNG" />
+    <history-entry file="TestWSelenium_OtwarciePrzegladarki - 2019.10.19 at 16h 53m 08s.xml">
+      <configuration name="TestWSelenium.OtwarciePrzegladarki" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="KlasaTestowa - 2019.10.19 at 15h 24m 38s.xml">
-      <configuration name="KlasaTestowa" configurationId="TestNG" />
+    <history-entry file="TestWSelenium_OtwarciePrzegladarki - 2019.10.19 at 16h 54m 39s.xml">
+      <configuration name="TestWSelenium.OtwarciePrzegladarki" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestWSelenium - 2019.10.19 at 15h 24m 56s.xml">
-      <configuration name="TestWSelenium" configurationId="TestNG" />
+    <history-entry file="TestWSelenium_OtwarciePrzegladarki - 2019.10.19 at 16h 55m 37s.xml">
+      <configuration name="TestWSelenium.OtwarciePrzegladarki" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestWSelenium - 2019.10.19 at 15h 42m 02s.xml">
-      <configuration name="TestWSelenium" configurationId="TestNG" />
+    <history-entry file="TestWSelenium_wyszukajLublin - 2019.10.19 at 16h 56m 30s.xml">
+      <configuration name="TestWSelenium.wyszukajLublin" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -267,13 +279,13 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.329429" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50067115" side_tool="true" weight="0.329429" />
       <window_info anchor="bottom" id="Messages" weight="0.329429" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.329429" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -316,7 +328,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Pierwsyz test + otwarceie przegladarki" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pierwsyz test + otwarceie przegladarki" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/KlasaTestowa.java">
@@ -349,14 +362,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#2034#2035#0" expanded="true" />
+            <element signature="e#2120#2121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestWSelenium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="190">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="46" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
           </folding>
         </state>
       </provider>
